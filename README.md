@@ -1,16 +1,33 @@
-## Hi there 👋
+Olá, eu sou o Vitor Gabriel Ferreira Lima! 👋
 
-<!--
-**vitor77lima/Vitor77Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software e estou em busca da minha primeira oportunidade na área de tecnologia, como Desenvolvedor(a). 🚀
 
-Here are some ideas to get you started:
+🎓 Formação Acadêmica
+Engenharia de Software — UNIFRAN (cursando, 2º semestre)
+Técnico em Administração
+Técnico em Logística
+💼 Experiência Profissional
+Atuo atualmente na área de Logística (trabalho temporário), enquanto me preparo e estudo para ingressar no mercado de tecnologia.
+🎯 Objetivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco minha primeira oportunidade como Desenvolvedor(a), seja como estagiário(a), aprendiz ou júnior, para colocar em prática os conhecimentos adquiridos na faculdade e continuar evoluindo na área de tecnologia.
+
+🛠️ Tecnologias e Ferramentas
+
+Adicione aqui as linguagens, frameworks e ferramentas que você já estuda ou domina, por exemplo:
+
+HTML / CSS / JavaScript
+Python
+Git & GitHub
+(edite esta lista com o que fizer mais sentido pra você)
+🎵 Um pouco mais sobre mim
+Tenho 18 anos
+Sou cristão 🙏
+Sou apaixonado(a) por música — sou multiinstrumentista, toco mais de 3 instrumentos 🎸🎹🥁
+Gosto de aprender coisas novas e estou sempre em busca de crescimento pessoal e profissional
+📫 Como me encontrar
+💼 LinkedIn: seu link aqui
+📧 E-mail: vitorgabrielferreiralima997@gmail.com
+📍 Localização: Brodowski - SP
+
+⭐️ Estou aberto(a) a oportunidades, freelas e projetos para praticar e evoluir. Fique à vontade para entrar em contato!
