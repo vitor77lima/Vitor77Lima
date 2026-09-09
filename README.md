@@ -6,6 +6,7 @@ Sou estudante de Engenharia de Software e estou em busca da minha primeira oport
 Engenharia de Software — UNIFRAN (cursando, 2º semestre)
 Técnico em Administração
 Técnico em Logística
+
 💼 Experiência Profissional
 Atuo atualmente na área de Logística (trabalho temporário), enquanto me preparo e estudo para ingressar no mercado de tecnologia.
 🎯 Objetivo
@@ -19,12 +20,13 @@ Adicione aqui as linguagens, frameworks e ferramentas que você já estuda ou do
 HTML / CSS / JavaScript
 Python
 Git & GitHub
-(edite esta lista com o que fizer mais sentido pra você)
+
 🎵 Um pouco mais sobre mim
 Tenho 18 anos
 Sou cristão 🙏
 Sou apaixonado(a) por música — sou multiinstrumentista, toco mais de 3 instrumentos 🎸🎹🥁
-Gosto de aprender coisas novas e estou sempre em busca de crescimento pessoal e profissional
+Gosto de aprender coisas novas e estou sempre em busca de crescimento pessoal e profissional3
+
 📫 Como me encontrar
 💼 LinkedIn: seu link aqui
 📧 E-mail: vitorgabrielferreiralima997@gmail.com
